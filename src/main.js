@@ -34,7 +34,7 @@ Vue.use(require('vue-moment'));
 
 Vue.config.productionTip = false
 
-Vue.prototype.$api_endpoint = 'https://api.compassdigital.org/v1';
+Vue.prototype.$api_endpoint = 'https://example.com';
 
 
 
